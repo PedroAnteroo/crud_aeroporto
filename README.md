@@ -12,8 +12,8 @@ Este projeto é um sistema de gerenciamento de aeronaves para um aeroporto, impl
 
 ## Tecnologias Utilizadas 🛠️
 
-- **Python **: Linguagem utilizada para desenvolvimento.
-- **Django **: Framework de desenvolvimento web que facilita a criação de aplicativos robustos e seguros.
+- **Python**: Linguagem utilizada para desenvolvimento.
+- **Django**: Framework de desenvolvimento web que facilita a criação de aplicativos robustos e seguros.
 - **Bootstrap 5**: Framework front-end para uma interface limpa, moderna e responsiva.
 - **SQLite**: Banco de dados usado para armazenamento dos registros de aeronaves.
 - **HTML5/CSS3**: Para estruturação e estilização das páginas web.
