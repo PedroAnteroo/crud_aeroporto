@@ -1,20 +1,22 @@
-# CRUD de Cadastro de Aeronaves para Aeroporto ✈️
+# CRUD de Cadastro de Aeronaves ✈️
 
-Este projeto é um sistema de gerenciamento de aeronaves para um aeroporto, implementado como um **CRUD** (Create, Read, Update, Delete). Ele permite o cadastro, consulta, atualização e exclusão de aeronaves, utilizando o framework **Django** para o back-end e **Bootstrap** para estilizar o front-end.
+Este projeto é um sistema simples e eficaz para gerenciamento de aeronaves em um aeroporto, permitindo realizar operações de cadastro, consulta, edição e exclusão de registros. Criado com **Django** no back-end e **Bootstrap** no front-end, o sistema entrega uma interface amigável e totalmente responsiva.
 
-## Funcionalidades 🚀
+## Funcionalidades 🛫
 
-- **Cadastro de Aeronaves**: Permite a inserção de novas aeronaves no sistema.
-- **Listagem de Aeronaves**: Exibe todas as aeronaves cadastradas em formato de tabela.
-- **Edição de Aeronaves**: Permite a atualização dos dados já cadastrados para mantê-los corretos e atualizados.
-- **Exclusão de Aeronaves**: Remove aeronaves do sistema.
+- **Cadastrar Aeronaves**
+- **Listar Aeronaves**
+- **Editar Aeronaves**
+- **Excluir Aeronaves**
 - **Interface Responsiva**
+## Tecnologias Utilizadas 🔧
 
-## Tecnologias Utilizadas 🛠️
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- **Python**: Linguagem utilizada para desenvolvimento.
-- **Django**: Framework de desenvolvimento web que facilita a criação de aplicativos robustos e seguros.
-- **Bootstrap 5**: Framework front-end para uma interface limpa, moderna e responsiva.
-- **SQLite**: Banco de dados usado para armazenamento dos registros de aeronaves.
-- **HTML5/CSS3**
-- **JavaScript**
+
